@@ -4,7 +4,7 @@ module.exports = {
   themeConfig: {
     nav: [
       { text: '主页', link: '/' },
-      { text: '关于', link: '/about/' }
+      { text: '科目一考试笔记', link: '/about/' }
     ],
     sidebar: [
       '/',
