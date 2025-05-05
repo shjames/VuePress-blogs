@@ -6,9 +6,14 @@ module.exports = {
       { text: '主页', link: '/' },
       { text: '科目一考试笔记', link: '/about/' }
     ],
-    sidebar: [
-      '/',
-      '/about/'
-    ]
+    sidebar: {
+      '/about/': [
+        '',
+        'traffic-marks/'
+      ],
+      '/': [
+        ''
+      ]
+    }
   }
 }
