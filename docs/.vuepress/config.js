@@ -9,7 +9,8 @@ module.exports = {
     sidebar: {
       '/about/': [
         '',
-        'traffic-marks/'
+        'traffic-marks/',
+        'traffic-lines/' // 新增交通标线子路径
       ],
       '/': [
         ''
