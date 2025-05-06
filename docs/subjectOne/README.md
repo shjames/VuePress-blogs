@@ -1,8 +1,6 @@
-# 科目一考试笔记
+# 违规扣分
 
 <img src="../images/cat.jpg" width="80%" height="auto" alt="示例图片">
-
-# 扣分题：
 
 ### 有关客运车超载的(超人)
 

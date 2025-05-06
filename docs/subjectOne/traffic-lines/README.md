@@ -1,9 +1,5 @@
 # 交通标线
 
-## 交通标线图片集
-
-以下是交通标线的相关图片展示：
-
 <div class="image-grid">
   <div class="image-item">
     <img src="./images/微信图片_20250505211200.jpg" alt="交通标线图片1">
