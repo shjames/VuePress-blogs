@@ -1,6 +1,6 @@
 # 交通标记
 
-<div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 10px;">
+<div class="image-grid-responsive">
   <img src="./images/微信图片_20250505155038.jpg" alt="微信图片_20250505155038" style="width: 100%;"/>
   <img src="./images/微信图片_20250505155101.jpg" alt="微信图片_20250505155101" style="width: 100%;"/>
   <img src="./images/微信图片_20250505160441.jpg" alt="微信图片_20250505160441" style="width: 100%;"/>
@@ -34,3 +34,17 @@
   <img src="./images/微信图片_20250505175754.jpg" alt="微信图片_20250505175754" style="width: 100%;"/>
   <img src="./images/微信图片_202505051757541.jpg" alt="微信图片_202505051757541" style="width: 100%;"/>
 </div>
+
+<style>
+.image-grid-responsive {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 10px;
+}
+
+@media (max-width: 600px) {
+  .image-grid-responsive {
+    grid-template-columns: 1fr;
+  }
+}
+</style>
