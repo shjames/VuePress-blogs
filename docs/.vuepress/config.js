@@ -10,6 +10,7 @@ module.exports = {
       { text: "驾驶证登记处罚", link: "/subjectOne/license-penalty/" },
       { text: "速度相关", link: "/subjectOne/traffic-speed/" },
       { text: "刑事处罚", link: "/subjectOne/traffic-criminal-punishment/" },
+      { text: "罚款相关", link: "/subjectOne/traffic-amerce/" },
       { text: "其他分类题目", link: "/subjectOne/traffic-other/" },
     ],
     sidebar: {
@@ -20,6 +21,7 @@ module.exports = {
         "license-penalty/", //驾驶证登记处罚
         "traffic-speed/", // 速度相关题目
         "traffic-criminal-punishment/",
+        "traffic-amerce/",
         "traffic-other/", // 其他分类题目
       ],
       "/": [""],
