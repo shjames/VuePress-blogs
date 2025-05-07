@@ -8,6 +8,8 @@ module.exports = {
       { text: "交通标线", link: "/subjectOne/traffic-marks/" },
       { text: "交通标记", link: "/subjectOne/traffic-lines/" },
       { text: "驾驶证登记处罚", link: "/subjectOne/license-penalty/" },
+      { text: "速度相关", link: "/subjectOne/traffic-speed/" },
+      { text: "刑事处罚", link: "/subjectOne/traffic-criminal-punishment/" },
       { text: "其他分类题目", link: "/subjectOne/traffic-other/" },
     ],
     sidebar: {
@@ -16,6 +18,8 @@ module.exports = {
         "traffic-marks/",
         "traffic-lines/", // 交通标线
         "license-penalty/", //驾驶证登记处罚
+        "traffic-speed/", // 速度相关题目
+        "traffic-criminal-punishment/",
         "traffic-other/", // 其他分类题目
       ],
       "/": [""],
