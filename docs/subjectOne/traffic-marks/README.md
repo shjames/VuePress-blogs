@@ -34,7 +34,29 @@
   <img src="./images/微信图片_20250505175754.jpg" alt="微信图片_20250505175754" style="width: 100%;"/>
   <img src="./images/微信图片_202505051757541.jpg" alt="微信图片_202505051757541" style="width: 100%;"/>
 </div>
+<!-- 总结 -->
 
+<div class="summary-section">
+  <h3>总结</h3>
+  <ul>
+    <li>
+      <strong>表示车道的图标两边肯定要有虚线才是</strong>
+    </li>
+  <!-- 图片添加 -->
+  </ul>
+
+</div>
+
+<div class="image-grid-responsive">
+  <img src="./images/summarize/微信图片_20250508155248.png" alt="微信图片_20250505155038" style="width: 100%;"/>
+   <img src="./images/summarize/微信图片_20250508160057.png" alt="微信图片_20250505155038" style="width: 100%;"/>
+    <img src="./images/summarize/微信图片_20250508162021.jpg" alt="微信图片_20250505155038" style="width: 100%;"/>
+     <img src="./images/summarize/微信图片_20250508170210.png" alt="微信图片_20250505155038" style="width: 100%;"/>
+ 
+</div>
+
+<!-- 把images/summarize 目录下的图片都新增到该位置 -->
+<!-- 注意页面的排列布局 -->
 <style>
 .image-grid-responsive {
   display: grid;
