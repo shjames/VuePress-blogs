@@ -61,19 +61,21 @@
 </div>
 <style>
 .summary-section {
-  margin: 30px 0;
-  padding: 20px;
-  border: 1px solid #eee;
-  border-radius: 8px;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
-  background-color: #f8f8f8;
+  margin: 20px auto; /* Center align and adjust margin */
+  padding: 15px;
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff; /* Lighter background */
+  max-width: 900px; /* Max width for larger screens */
 }
 
 .summary-section h3 {
   margin-top: 0;
-  margin-bottom: 15px;
+  margin-bottom: 20px; /* Increased spacing */
   text-align: center;
-  color: #333;
+  color: #2c3e50; /* Darker, more modern color */
+  font-size: 1.5em; /* Larger heading */
 }
 
 .summary-section ul {
@@ -82,53 +84,101 @@
 }
 
 .summary-section li {
-  margin-bottom: 10px;
+  margin-bottom: 12px; /* Slightly more spacing */
+  line-height: 1.6; /* Improved readability */
+}
+
+.summary-section li strong {
+  color: #34495e; /* Consistent strong text color */
 }
 
 .summary-section li ul {
-  margin-top: 5px;
-  padding-left: 20px;
-  list-style-type: disc;
+  margin-top: 8px;
+  padding-left: 25px;
+  list-style-type: square; /* Changed bullet style */
 }
 
 .summary-section li ul li {
-  margin-bottom: 5px;
-  font-size: 0.9em;
+  margin-bottom: 6px;
+  font-size: 0.95em; /* Slightly larger for better readability */
+  color: #555;
 }
 
 .image-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  grid-gap: 20px;
-  margin: 30px 0;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr)); /* Smaller min for more items on mobile */
+  grid-gap: 15px; /* Reduced gap */
+  margin: 20px 0;
+  padding: 0 10px; /* Add some padding on mobile */
 }
 
 .image-item {
   display: flex;
   flex-direction: column;
-  border: 1px solid #eee;
-  border-radius: 8px;
+  border: 1px solid #e0e0e0;
+  border-radius: 10px;
   overflow: hidden;
-  transition: transform 0.3s ease;
-  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth transition for shadow too */
+  box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+  background-color: #fff;
 }
 
 .image-item:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.2);
+  transform: translateY(-8px);
+  box-shadow: 0 6px 20px rgba(0, 0, 0, 0.15);
 }
 
 .image-item img {
   width: 100%;
-  height: auto;
-  object-fit: cover;
+  height: auto; /* Maintain aspect ratio */
+  max-height: 250px; /* Limit image height */
+  object-fit: cover; /* Ensure image covers the area */
+  border-bottom: 1px solid #e0e0e0;
 }
 
 .image-item p {
-  padding: 10px;
+  padding: 12px;
   margin: 0;
   text-align: center;
-  background-color: #f8f8f8;
-  font-size: 14px;
+  background-color: #f9f9f9;
+  font-size: 0.9em;
+  color: #333;
+  border-top: 1px solid #e0e0e0; /* Separator line */
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .summary-section h3 {
+    font-size: 1.3em;
+  }
+  .summary-section li ul li {
+    font-size: 0.9em;
+  }
+  .image-grid {
+    grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); /* Even smaller for very small screens */
+    grid-gap: 10px;
+  }
+  .image-item p {
+    font-size: 0.85em;
+  }
+}
+
+@media (max-width: 480px) {
+  .summary-section {
+    margin: 15px 10px; /* Adjust margin for small screens */
+    padding: 10px;
+  }
+  .summary-section h3 {
+    font-size: 1.2em;
+  }
+   .summary-section li ul {
+    padding-left: 15px;
+  }
+  .image-grid {
+    grid-template-columns: 1fr; /* Single column on very small screens */
+  }
+  .image-item img {
+    max-height: 200px;
+  }
 }
 </style>
