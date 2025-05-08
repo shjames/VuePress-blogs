@@ -9,32 +9,32 @@
     <img src="./images/微信图片_20250506125235.jpg" alt="驾驶证登记处罚2">
     <p>驾驶证登记处罚2</p>
   </div>
-  <div class="image-item">
-    <img src="./images/微信图片_20250506125558.jpg" alt="驾驶证登记处罚3">
+   <div class="image-item">
+    <img src="./images/微信图片_20250506152536.jpg" alt="驾驶证登记处罚3">
     <p>驾驶证登记处罚3</p>
   </div>
   <div class="image-item">
-    <img src="./images/微信图片_20250506125748.jpg" alt="驾驶证登记处罚4">
+    <img src="./images/微信图片_20250506125558.jpg" alt="驾驶证登记处罚4">
     <p>驾驶证登记处罚4</p>
   </div>
   <div class="image-item">
-    <img src="./images/微信图片_20250506125858.jpg" alt="驾驶证登记处罚5">
+    <img src="./images/微信图片_20250506125748.jpg" alt="驾驶证登记处罚5">
     <p>驾驶证登记处罚5</p>
   </div>
   <div class="image-item">
-    <img src="./images/微信图片_20250506142311.jpg" alt="驾驶证登记处罚6">
+    <img src="./images/微信图片_20250506125858.jpg" alt="驾驶证登记处罚6">
     <p>驾驶证登记处罚6</p>
   </div>
-  <div class="image-item">
-    <img src="./images/微信图片_20250506144014.jpg" alt="驾驶证登记处罚7">
+   <div class="image-item">
+    <img src="./images/微信图片_20250506151611.jpg" alt="驾驶证登记处罚7">
     <p>驾驶证登记处罚7</p>
   </div>
   <div class="image-item">
-    <img src="./images/微信图片_20250506151611.jpg" alt="驾驶证登记处罚8">
+    <img src="./images/微信图片_20250506142311.jpg" alt="驾驶证登记处罚8">
     <p>驾驶证登记处罚8</p>
   </div>
   <div class="image-item">
-    <img src="./images/微信图片_20250506152536.jpg" alt="驾驶证登记处罚9">
+    <img src="./images/微信图片_20250506144014.jpg" alt="驾驶证登记处罚9">
     <p>驾驶证登记处罚9</p>
   </div>
   <div class="image-item">

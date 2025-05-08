@@ -81,6 +81,10 @@
     <img src="./images/微信图片_20250505230203.jpg" alt="交通标线图片20">
     <p>标线示例20</p>
   </div>
+   <div class="image-item">
+    <img src="./images/summarize/微信图片_20250508182809.png" alt="交通标线图片21">
+    <p>标线示例21</p>
+  </div>
 </div>
 
 <style>

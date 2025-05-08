@@ -34,7 +34,7 @@
   <img src="./images/微信图片_20250505175754.jpg" alt="微信图片_20250505175754" style="width: 100%;"/>
   <img src="./images/微信图片_202505051757541.jpg" alt="微信图片_202505051757541" style="width: 100%;"/>
 </div>
-<!-- 总结 -->
+
 
 <div class="summary-section">
   <h3>总结</h3>
@@ -42,26 +42,55 @@
     <li>
       <strong>表示车道的图标两边肯定要有虚线才是</strong>
     </li>
-  <!-- 图片添加 -->
   </ul>
-
 </div>
 
-<div class="image-grid-responsive">
-  <img src="./images/summarize/微信图片_20250508155248.png" alt="微信图片_20250505155038" style="width: 100%;"/>
-   <img src="./images/summarize/微信图片_20250508160057.png" alt="微信图片_20250505155038" style="width: 100%;"/>
-    <img src="./images/summarize/微信图片_20250508162021.jpg" alt="微信图片_20250505155038" style="width: 100%;"/>
-     <img src="./images/summarize/微信图片_20250508170210.png" alt="微信图片_20250505155038" style="width: 100%;"/>
- 
+<div class="image-grid-responsive summary-images">
+  <img src="./images/summarize/微信图片_20250508155248.png" alt="车道标记示例1" style="width: 100%;"/>
+  <img src="./images/summarize/微信图片_20250508160057.png" alt="车道标记示例2" style="width: 100%;"/>
+  <img src="./images/summarize/微信图片_20250508162021.jpg" alt="车道标记示例3" style="width: 100%;"/>
+  <img src="./images/summarize/微信图片_20250508170210.png" alt="车道标记示例4" style="width: 100%;"/>
 </div>
 
-<!-- 把images/summarize 目录下的图片都新增到该位置 -->
-<!-- 注意页面的排列布局 -->
 <style>
 .image-grid-responsive {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   gap: 10px;
+  margin-bottom: 20px;
+}
+
+.summary-section {
+  background-color: #f5f5f5;
+  border-left: 4px solid #42b983;
+  padding: 15px 20px;
+  margin: 20px 0;
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.summary-section h3 {
+  margin-top: 0;
+  color: #42b983;
+}
+
+.summary-section ul {
+  margin-bottom: 0;
+}
+
+.summary-images {
+  grid-template-columns: repeat(2, 1fr);
+  margin-top: 20px;
+}
+
+.summary-images img {
+  border-radius: 4px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease;
+}
+
+.summary-images img:hover {
+  transform: scale(1.02);
 }
 
 @media (max-width: 600px) {
