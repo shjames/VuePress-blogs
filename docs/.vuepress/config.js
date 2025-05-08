@@ -12,6 +12,7 @@ module.exports = {
       { text: "刑事处罚", link: "/subjectOne/traffic-criminal-punishment/" },
       { text: "罚款相关", link: "/subjectOne/traffic-amerce/" },
       { text: "其他分类题目", link: "/subjectOne/traffic-other/" },
+      { text: "模拟考试错误收集", link: "/subjectOne/mock-exam-errors/" },
     ],
     sidebar: {
       "/subjectOne/": [
@@ -23,6 +24,7 @@ module.exports = {
         "traffic-criminal-punishment/",
         "traffic-amerce/",
         "traffic-other/", // 其他分类题目
+        "mock-exam-errors/", // 模拟考试错误收集
       ],
       "/": [""],
     },
