@@ -45,6 +45,31 @@
     <img src="./images/微信图片_20250508125740.jpg" alt="模拟考试错误图例10">
     <p class="image-caption">错误题目示例10</p>
   </div>
+  <div class="image-item">
+    <img src="./images/0509/微信图片_20250509123254.jpg" alt="模拟考试错误图例11">
+    <p class="image-caption">错误题目示例11</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0509/微信图片_20250509123612.jpg" alt="模拟考试错误图例12">
+    <p class="image-caption">错误题目示例12</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0509/微信图片_20250509123614.jpg" alt="模拟考试错误图例13">
+    <p class="image-caption">错误题目示例13</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0509/微信图片_20250509123615.jpg" alt="模拟考试错误图例14">
+    <p class="image-caption">错误题目示例14</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0509/微信图片_20250509123617.jpg" alt="模拟考试错误图例15">
+    <p class="image-caption">错误题目示例15</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0509/微信图片_20250509123619.jpg" alt="模拟考试错误图例16">
+    <p class="image-caption">错误题目示例16</p>
+  </div>
+  <!-- 添加图片 -->
 </div>
 
 <style>
