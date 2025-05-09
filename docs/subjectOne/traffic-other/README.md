@@ -298,6 +298,66 @@
 </div>
 <style>
 /* 图片网格样式 */
+
+/* 总结卡片样式 */
+.summary-title {
+  text-align: center;
+  margin: 2rem 0 1.5rem;
+  color: #2c3e50;
+  font-size: 2rem;
+  font-weight: 600;
+}
+
+.summary-container {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 1.5rem;
+  margin: 2rem 0;
+}
+
+.summary-card {
+  background: #ffffff;
+  border-radius: 12px;
+  padding: 1.5rem;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  transition: transform 0.3s ease;
+}
+
+.summary-card:hover {
+  transform: translateY(-4px);
+}
+
+.summary-card-header {
+  font-size: 1.25rem;
+  font-weight: 600;
+  color: #2c3e50;
+  margin-bottom: 0.75rem;
+  border-bottom: 2px solid #e0f2f1;
+  padding-bottom: 0.5rem;
+}
+
+.summary-card-content {
+  font-size: 1rem;
+  line-height: 1.6;
+  color: #555;
+}
+
+@media (max-width: 768px) {
+  .summary-container {
+    grid-template-columns: 1fr;
+  }
+  .summary-card {
+    padding: 1.25rem;
+  }
+  .summary-title {
+    font-size: 1.6rem;
+  }
+  .summary-card-header {
+    font-size: 1.1rem;
+  }
+}
+
+/* 图片网格样式 */
 .image-grid {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
