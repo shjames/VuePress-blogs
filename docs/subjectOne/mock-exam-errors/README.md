@@ -208,7 +208,8 @@ gap: 15px;
 
 <script src="/assets/photoswipe/photoswipe.min.js"></script>
 <script>
-document.addEventListener('DOMContentLoaded', function() {
+if (typeof window !== 'undefined') {
+  document.addEventListener('DOMContentLoaded', function() {
   const gallery = document.querySelector('.image-gallery');
   const pswp = new PhotoSwipe({
     bgOpacity: 0.9,
@@ -236,5 +237,6 @@ document.addEventListener('DOMContentLoaded', function() {
     item.insertBefore(a, img);
     a.appendChild(img);
   });
-});
+  });
+}
 </script>
