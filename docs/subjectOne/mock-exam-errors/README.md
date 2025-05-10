@@ -100,7 +100,7 @@
     <img src="./images/0509-1/微信图片_20250509233723.png" alt="模拟考试错误图例23">
     <p class="image-caption">错误题目示例23</p>
   </div>
-  <!-- 添加图片 -->
+  
   <div class="image-item">
     <img src="./images/0510/微信图片_20250510120434.png" alt="模拟考试错误图例24">
     <p class="image-caption">错误题目示例24</p>
@@ -137,7 +137,38 @@
     <img src="./images/0510-1/微信图片_20250510183051.jpg" alt="模拟考试错误图例32">
     <p class="image-caption">错误题目示例32</p>
   </div>
-  <!-- 添加图片 -->
+  <div class="image-item">
+    <img src="./images/0510-2/微信图片_20250510192429.png" alt="模拟考试错误图例33">
+    <p class="image-caption">错误题目示例33</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-2/微信图片_20250510193459.png" alt="模拟考试错误图例34">
+    <p class="image-caption">错误题目示例34</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-2/微信图片_20250510193924.png" alt="模拟考试错误图例35">
+    <p class="image-caption">错误题目示例35</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-2/微信图片_20250510194216.png" alt="模拟考试错误图例36">
+    <p class="image-caption">错误题目示例36</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-2/微信图片_20250510194733.png" alt="模拟考试错误图例37">
+    <p class="image-caption">错误题目示例37</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-2/微信图片_20250510194825.png" alt="模拟考试错误图例38">
+    <p class="image-caption">错误题目示例38</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-2/微信图片_20250510195010.png" alt="模拟考试错误图例39">
+    <p class="image-caption">错误题目示例39</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-2/微信图片_20250510195044.png" alt="模拟考试错误图例40">
+    <p class="image-caption">错误题目示例40</p>
+  </div>
 <link rel="stylesheet" href="/assets/photoswipe/photoswipe.css">
 <style>
 .custom-page-class {
