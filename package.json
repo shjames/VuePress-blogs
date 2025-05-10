@@ -8,5 +8,8 @@
   },
   "devDependencies": {
     "vuepress": "^1.9.10"
+  },
+  "dependencies": {
+    "photoswipe": "^5.3.7"
   }
 }

@@ -71,7 +71,7 @@
   </div>
   
 </div>
-<!-- 添加图片 -->
+
   <div class="image-item">
     <img src="./images/0509-1/微信图片_20250509232913.png" alt="模拟考试错误图例17">
     <p class="image-caption">错误题目示例17</p>
@@ -100,6 +100,28 @@
     <img src="./images/0509-1/微信图片_20250509233723.png" alt="模拟考试错误图例23">
     <p class="image-caption">错误题目示例23</p>
   </div>
+  <!-- 添加图片 -->
+  <div class="image-item">
+    <img src="./images/0510/微信图片_20250510120434.png" alt="模拟考试错误图例24">
+    <p class="image-caption">错误题目示例24</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510/微信图片_20250510120456.png" alt="模拟考试错误图例25">
+    <p class="image-caption">错误题目示例25</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510/微信图片_20250510120554.png" alt="模拟考试错误图例26">
+    <p class="image-caption">错误题目示例26</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510/微信图片_20250510122558.png" alt="模拟考试错误图例27">
+    <p class="image-caption">错误题目示例27</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510/微信图片_20250510122639.png" alt="模拟考试错误图例28">
+    <p class="image-caption">错误题目示例28</p>
+  </div>
+<link rel="stylesheet" href="/assets/photoswipe/photoswipe.css">
 <style>
 .custom-page-class {
   padding: 20px;
@@ -107,79 +129,112 @@
 }
 
 .custom-page-class h1 {
-  color: #2c3e50;
-  border-bottom: 2px solid #3498db;
-  padding-bottom: 10px;
+color: #2c3e50;
+border-bottom: 2px solid #3498db;
+padding-bottom: 10px;
 }
 
 .custom-page-class h2 {
-  color: #34495e;
-  margin-top: 30px;
+color: #34495e;
+margin-top: 30px;
 }
 
 .custom-page-class ul {
-  list-style-type: square;
-  padding-left: 20px;
+list-style-type: square;
+padding-left: 20px;
 }
 
 .custom-page-class li {
-  margin-bottom: 8px;
-  line-height: 1.6;
+margin-bottom: 8px;
+line-height: 1.6;
 }
 
-/* 响应式图片展示样式 */
+/_ 响应式图片展示样式 _/
 .image-gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
-  gap: 20px;
-  margin: 30px 0;
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
+gap: 20px;
+margin: 30px 0;
 }
 
 .image-item {
-  border: 1px solid #eaeaea;
-  border-radius: 8px;
-  overflow: hidden;
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-  transition: transform 0.3s ease;
+border: 1px solid #eaeaea;
+border-radius: 8px;
+overflow: hidden;
+box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+transition: transform 0.3s ease;
 }
 
 .image-item:hover {
-  transform: translateY(-5px);
+transform: translateY(-5px);
 }
 
 .image-item img {
-  width: 100%;
-  height: auto;
-  display: block;
-  object-fit: cover;
+width: 100%;
+height: auto;
+display: block;
+object-fit: cover;
 }
 
 .image-caption {
-  padding: 10px;
-  text-align: center;
-  background-color: #f8f9fa;
-  margin: 0;
-  font-size: 14px;
-  color: #333;
+padding: 10px;
+text-align: center;
+background-color: #f8f9fa;
+margin: 0;
+font-size: 14px;
+color: #333;
 }
 
-/* 移动端适配 */
+/_ 移动端适配 _/
 @media (max-width: 768px) {
-  .image-gallery {
-    grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-    gap: 15px;
-  }
-  
-  .image-caption {
-    font-size: 12px;
-    padding: 8px;
-  }
+.image-gallery {
+grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+gap: 15px;
+}
+
+.image-caption {
+font-size: 12px;
+padding: 8px;
+}
 }
 
 @media (max-width: 480px) {
-  .image-gallery {
-    grid-template-columns: 1fr;
-    gap: 15px;
-  }
+.image-gallery {
+grid-template-columns: 1fr;
+gap: 15px;
+}
 }
 </style>
+
+<script src="/assets/photoswipe/photoswipe.min.js"></script>
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+  const gallery = document.querySelector('.image-gallery');
+  const pswp = new PhotoSwipe({
+    bgOpacity: 0.9,
+    spacing: 0,
+    loop: false,
+    pinchToClose: false,
+    closeOnScroll: false,
+    children: 'a',
+    getThumbBoundsFn: index => {
+      const thumbnail = gallery.children[index].querySelector('img');
+      const rect = thumbnail.getBoundingClientRect();
+      return {x: rect.left, y: rect.top + window.pageYOffset, w: rect.width};
+    }
+  });
+  Array.from(gallery.children).forEach((item, index) => {
+    const img = item.querySelector('img');
+    const a = document.createElement('a');
+    a.href = img.src;
+    a.dataset.pswpWidth = img.naturalWidth;
+    a.dataset.pswpHeight = img.naturalHeight;
+    a.addEventListener('click', (e) => {
+      e.preventDefault();
+      pswp.initiate({ index });
+    });
+    item.insertBefore(a, img);
+    a.appendChild(img);
+  });
+});
+</script>
