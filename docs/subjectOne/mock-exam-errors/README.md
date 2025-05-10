@@ -121,6 +121,23 @@
     <img src="./images/0510/微信图片_20250510122639.png" alt="模拟考试错误图例28">
     <p class="image-caption">错误题目示例28</p>
   </div>
+  <div class="image-item">
+    <img src="./images/0510-1/微信图片_20250510183022.jpg" alt="模拟考试错误图例29">
+    <p class="image-caption">错误题目示例29</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-1/微信图片_20250510183047.jpg" alt="模拟考试错误图例30">
+    <p class="image-caption">错误题目示例30</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-1/微信图片_20250510183048.jpg" alt="模拟考试错误图例31">
+    <p class="image-caption">错误题目示例31</p>
+  </div>
+  <div class="image-item">
+    <img src="./images/0510-1/微信图片_20250510183051.jpg" alt="模拟考试错误图例32">
+    <p class="image-caption">错误题目示例32</p>
+  </div>
+  <!-- 添加图片 -->
 <link rel="stylesheet" href="/assets/photoswipe/photoswipe.css">
 <style>
 .custom-page-class {
