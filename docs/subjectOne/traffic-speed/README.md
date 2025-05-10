@@ -21,7 +21,7 @@
     <img src="./images/微信图片_20250507145315.jpg" alt="速度相关图片5">
     <p>速度相关图片5</p>
   </div>
-@</div>
+</div>
 
 <div class="speed-summary-section">
   <h2>行车速度规定总结</h2>
@@ -81,7 +81,6 @@
           <li>有中心线：最高 <strong>70 km/h</strong></li>
         </ul>
       </div>
-       
     </div>
   </div>
 </div>
