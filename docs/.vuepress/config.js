@@ -22,6 +22,7 @@ module.exports = {
       { text: "其他分类题目", link: "/subjectOne/traffic-other/" },
       { text: "交通手势", link: "/subjectOne/traffic-gestures/" },
       { text: "模拟考试错误收集", link: "/subjectOne/mock-exam-errors/" },
+      { text: "重点攻破", link: "/subjectOne/key-breakthrough/" },
     ],
     sidebar: {
       "/subjectOne/": [
@@ -35,6 +36,7 @@ module.exports = {
         "traffic-other/", // 其他分类题目
         "traffic-gestures/", // 交通手势
         "mock-exam-errors/", // 模拟考试错误收集
+        "key-breakthrough/", // 重点攻破
       ],
       "/": [""],
     },

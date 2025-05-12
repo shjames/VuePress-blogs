@@ -36,8 +36,8 @@
   <div class="summary-section">
     <h3>事故逃逸相关处罚</h3>
     <ul>
-      <li>发生事故未逃逸: <span class="penalty">选3年以下</span></li>
-      <li>逃逸或情节特别恶劣: <span class="penalty">选3-7年</span></li>
+      <li>发生事故（比如驾驶人违反交通运输管理法规发生重大事故致人重伤、死亡）未逃逸: <span class="penalty">选3年以下</span></li>
+      <li>逃逸或情节特别恶劣(比如致人死亡): <span class="penalty">选3-7年</span></li>
       <li>因逃逸致人死亡: <span class="penalty">选7年以上</span></li>
       <li>肇事逃逸构成犯罪: <span class="penalty">终生不得再考驾照</span></li>
     </ul>

@@ -177,7 +177,7 @@
     <h4 class="summary-card-header">年龄限制</h4>
     <div class="summary-card-content">
       <p>轻型牵引挂车：20-70 岁</p>
-      <p>大中型客货车：20-63 岁</p>
+      <p>大中型客货车：<strong>20-63 岁</strong>,其中申请大型客车、重型牵引挂车准驾车型的，在<strong>22周岁以上，63周岁以下</strong> </p>
     </div>
   </div>
 
@@ -206,7 +206,7 @@
   <div class="summary-card">
     <h4 class="summary-card-header">换证规定</h4>
     <div class="summary-card-content">
-      <p>过了换证期限但是未超过两年的，参加道路交通安全法律、法规和相关知识考试合格后(也就是只需要靠科目一)回复驾驶资格</p>
+      <p>过了换证期限但是未超过两年的，参加道路交通安全法律、法规和相关知识考试合格后(也就是只需要考科目一)恢复驾驶资格</p>
       <p>其中驾驶证超过有效期一年的，会自动被注销，如果是超过 3 年还没换证的，就要重新考</p>
     </div>
   </div>
@@ -227,13 +227,13 @@
           <p><strong>首次饮酒驾驶：</strong></p>
           <ul>
             <li>暂扣驾驶证 6 个月</li>
-            <li>罚款 1000 元至 2000 元</li>
+            <li><span style="color: red;">罚款 1000 元至 2000 元</span></li>
             <li>记 12 分</li>
           </ul>
           <p><strong>二次饮酒驾驶：</strong></p>
           <ul>
             <li>处 10 日以下行政拘留</li>
-            <li>罚款 1000 元至 2000 元</li>
+            <li><span style="color: red;">罚款 1000 元至 2000 元</span></li>
             <li>吊销驾驶证(牌没了，没有扣几分说法了)</li>
           </ul>
         </div>
@@ -289,9 +289,9 @@
         <li><strong>TSR</strong> - Traffic Sign Recognition 汽车安全系统的交通标志识别系统</li>
         <li><strong>TMC</strong> - Traffic MessageChannel 交通信息频道</li>
         <li><strong>ACC</strong> - Adaptive CruiseControl 自适应巡航，又称车辆主动巡航系统</li>
-        <li><strong>FCW</strong> - Forward Collision Warning 前方碰撞预警系统</li>
-        <li><strong>BSD</strong> - Blind Spot Detection 盲点监测系统</li>
-        <li><strong>AEB</strong> - Autonomous Emergency Braking 自动紧急制动系统</li>
+        <li><strong>FCW</strong> - Forward Collision（碰撞） Warning <span style="color: #b1b134;">前方碰撞预警系统</span></li>
+        <li><strong>BSD</strong> - Blind Spot Detection <span style="color: #b1b134;">盲点监测系统</span></li>
+        <li><strong>AEB</strong> - Autonomous Emergency Braking <span style="color: #b1b134;">自动紧急制动系统</span></li>
       </ul>
     </div>
   </div>
@@ -299,70 +299,70 @@
 <style>
 /* 图片网格样式 */
 
-/* 总结卡片样式 */
+/_ 总结卡片样式 _/
 .summary-title {
-  text-align: center;
-  margin: 2rem 0 1.5rem;
-  color: #2c3e50;
-  font-size: 2rem;
-  font-weight: 600;
+text-align: center;
+margin: 2rem 0 1.5rem;
+color: #2c3e50;
+font-size: 2rem;
+font-weight: 600;
 }
 
 .summary-container {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
-  gap: 1.5rem;
-  margin: 2rem 0;
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+gap: 1.5rem;
+margin: 2rem 0;
 }
 
 .summary-card {
-  background: #ffffff;
-  border-radius: 12px;
-  padding: 1.5rem;
-  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
-  transition: transform 0.3s ease;
+background: #ffffff;
+border-radius: 12px;
+padding: 1.5rem;
+box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+transition: transform 0.3s ease;
 }
 
 .summary-card:hover {
-  transform: translateY(-4px);
+transform: translateY(-4px);
 }
 
 .summary-card-header {
-  font-size: 1.25rem;
-  font-weight: 600;
-  color: #2c3e50;
-  margin-bottom: 0.75rem;
-  border-bottom: 2px solid #e0f2f1;
-  padding-bottom: 0.5rem;
+font-size: 1.25rem;
+font-weight: 600;
+color: #2c3e50;
+margin-bottom: 0.75rem;
+border-bottom: 2px solid #e0f2f1;
+padding-bottom: 0.5rem;
 }
 
 .summary-card-content {
-  font-size: 1rem;
-  line-height: 1.6;
-  color: #555;
+font-size: 1rem;
+line-height: 1.6;
+color: #555;
 }
 
 @media (max-width: 768px) {
-  .summary-container {
-    grid-template-columns: 1fr;
-  }
-  .summary-card {
-    padding: 1.25rem;
-  }
-  .summary-title {
-    font-size: 1.6rem;
-  }
-  .summary-card-header {
-    font-size: 1.1rem;
-  }
+.summary-container {
+grid-template-columns: 1fr;
+}
+.summary-card {
+padding: 1.25rem;
+}
+.summary-title {
+font-size: 1.6rem;
+}
+.summary-card-header {
+font-size: 1.1rem;
+}
 }
 
-/* 图片网格样式 */
+/_ 图片网格样式 _/
 .image-grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
-  grid-gap: 20px;
-  margin: 30px 0;
+display: grid;
+grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+grid-gap: 20px;
+margin: 30px 0;
 }
 
 .image-item {
@@ -425,13 +425,13 @@ box-shadow: 0 5px 15px rgba(0, 0, 0, 0.15);
 .summary-card-header {
 background-color: #3498db;
 color: white;
-padding: 15px 20px; /* Increased padding */
+padding: 15px 20px; /_ Increased padding _/
 font-weight: bold;
-font-size: 1.2rem; /* Slightly larger font */
+font-size: 1.2rem; /_ Slightly larger font _/
 }
 
 .summary-card-content {
-padding: 20px; /* Increased padding */
+padding: 20px; /_ Increased padding _/
 color: #333;
 }
 
@@ -441,14 +441,14 @@ line-height: 1.6;
 }
 
 .summary-card-content > p:first-child {
-  margin-top: 0;
+margin-top: 0;
 }
 
 .summary-card-content h4 {
 margin: 15px 0 8px;
 color: #2c3e50;
 font-size: 1.1rem;
-/* border-bottom: 1px solid #eee; */ /* Removed for sub-section styling */
+/_ border-bottom: 1px solid #eee; _/ /_ Removed for sub-section styling _/
 padding-bottom: 5px;
 }
 
@@ -463,14 +463,14 @@ border: 1px solid #e0e0e0;
 .sub-section h4 {
 margin-top: 0;
 margin-bottom: 10px;
-color: #3498db; /* Match header color for sub-section titles */
+color: #3498db; /_ Match header color for sub-section titles _/
 font-size: 1rem;
-border-bottom: none; /* Remove bottom border for sub-section h4 */
+border-bottom: none; /_ Remove bottom border for sub-section h4 _/
 }
 
 .sub-section-content p,
 .sub-section-content ul {
-  margin-left: 10px;
+margin-left: 10px;
 }
 
 .sub-section-content ul {
@@ -513,17 +513,17 @@ grid-template-columns: 1fr;
 }
 
 .summary-title {
-font-size: 1.6rem; /* Adjusted for mobile */
+font-size: 1.6rem; /_ Adjusted for mobile _/
 margin: 30px 0 15px;
 }
 
 .summary-card-header {
-font-size: 1.1rem; /* Adjusted for mobile */
-padding: 12px 15px; /* Adjusted for mobile */
+font-size: 1.1rem; /_ Adjusted for mobile _/
+padding: 12px 15px; /_ Adjusted for mobile _/
 }
 
 .summary-card-content {
-padding: 15px; /* Adjusted for mobile */
+padding: 15px; /_ Adjusted for mobile _/
 }
 
 .sub-section {
