@@ -155,7 +155,7 @@
   </div>
   <div class="image-item">
     <img src="./images/0510-2/微信图片_20250510194733.png" alt="模拟考试错误图例37">
-    <p class="image-caption">错误题目示例37</p>
+    <p class="image-caption">错误题目示例37(大型客车、重型牵引挂车为22-63)</p>
   </div>
   <div class="image-item">
     <img src="./images/0510-2/微信图片_20250510194825.png" alt="模拟考试错误图例38">
