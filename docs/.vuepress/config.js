@@ -13,6 +13,7 @@ module.exports = {
     nav: [
       { text: "科目一", link: "/subjectOne/" },
       { text: "科目二", link: "/subjectTwo/" },
+      { text: "科目四", link: "/subjectFour/" },
     ],
     sidebar: {
       "/subjectOne/": [
@@ -28,7 +29,11 @@ module.exports = {
         "mock-exam-errors/",
         "key-breakthrough/",
       ],
-      "/subjectTwo/": ["", "study-notes/"],
+      "/subjectTwo/": [
+        "", // /subjectTwo/README.md
+        "image-guide/", // 图文说明子路由
+      ],
+      "/subjectFour/": ["", "study-notes/"],
     },
   },
 };
