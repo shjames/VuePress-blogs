@@ -2,10 +2,47 @@
 
 ## 基本操作
 
-> **上车第一件事**：调好座位镜子，系安全带，松手刹到底，检查仪表盘红色标志，安全带和手刹标志还有车门关好
+> **上车第一件事**：一调二系三检查，挂挡准备启动前，一定要离合、脚刹踩到底
 
 ::: warning 重要提示
-挂挡之前一定要检查三个红色标志，才能动车不然挂科
+
+<div style="padding: 15px; background-color: #f8f9fa; border-radius: 8px;">
+  <div style="margin-bottom: 15px;">
+    <span style="font-weight: bold; color: #e74c3c; font-size: 1.1em;">一、调整座位</span>
+    <ul style="margin-top: 5px; margin-bottom: 0;">
+      <li>调整座椅位置，确保能舒适地踩到踏板</li>
+      <li>调整靠背角度，保持良好的驾驶姿势</li>
+    </ul>
+  </div>
+  
+  <div style="margin-bottom: 15px;">
+    <span style="font-weight: bold; color: #3498db; font-size: 1.1em;">二、系安全带</span>
+    <ul style="margin-top: 5px; margin-bottom: 0;">
+      <li>确保安全带平整无扭曲</li>
+      <li>系紧安全带，不要过松或过紧</li>
+    </ul>
+  </div>
+  
+  <div>
+    <span style="font-weight: bold; color: #2ecc71; font-size: 1.1em;">三、检查事项</span>
+    <ul style="margin-top: 5px; margin-bottom: 0;">
+      <li><span style="font-weight: bold;">后视镜：</span>检查并调整到适合自己的位置</li>
+      <li><span style="font-weight: bold;">档位：</span>确认是否在空挡，不是空挡直接启动发动机会<span style="color: #e74c3c; font-weight: bold;">直接挂科</span></li>
+      <li><span style="font-weight: bold;">启动状态：</span>检查车辆是否已启动，已启动状态下再次点火会造成熄火，<span style="color: #e74c3c;">扣10分</span></li>
+      <li><span style="font-weight: bold;">手刹：</span>手刹和挂挡没有前后顺序，但不放手刹就起步会<span style="color: #e74c3c; font-weight: bold;">直接挂科</span>(可以先放手刹再挂挡)，确认仪表盘红灯全部熄灭后才能起步<span style="color: #e74c3c; font-weight: bold;">要么就直接挂科</span></li>
+    </ul>
+  </div>
+</div>
+:::
+
+<div style="margin: 30px 0; position: relative; height: 6px; background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); border-radius: 3px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); background-color: white; padding: 0 15px; font-weight: bold; color: #4facfe;"></div>
+</div>
+
+::: danger 🚗 侧方位停车相关 🚗
+
+# <span style="background-image: linear-gradient(to right, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; text-shadow: 0px 2px 2px rgba(0,0,0,0.2);">侧方位停车</span>
+
 :::
 
 ## 追线与停车要点
@@ -33,22 +70,45 @@
 - 方向盘操作要快准狠
 - 追线那里停一次，库里停一次
 
-::: tip 提示
-对于侧方停车这个项目，除了上述两次停车，其他地方是不能停车的，也就是说不能踩脚刹（当然是针对手动挡来说），所以练习中要养成中途不踩脚刹的习惯
-起步、转向、变更车道、超车、停车前要提前3秒打对应灯光（侧方就是出库时要提前打左转向灯）
+::: tip 侧方位停车重要提示
+<div style="background: linear-gradient(to right, #f6f8fa, #ffffff); border-radius: 6px; padding: 12px; margin: 10px 0;">
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 12px;">
+  <div style="flex-shrink: 0; margin-right: 10px; color: #e74c3c;">🚫</div>
+  <div>
+    <span style="font-weight: bold; color: #e74c3c;">停车限制：</span>对于侧方停车这个项目，除了上述两次停车，其他地方是不能停车的，也就是说不能踩脚刹（当然是针对手动挡来说），所以练习中要养成中途不踩脚刹的习惯
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 12px;">
+  <div style="flex-shrink: 0; margin-right: 10px; color: #3498db;">💡</div>
+  <div>
+    <span style="font-weight: bold; color: #3498db;">灯光使用：</span>起步、转向、变更车道、超车、停车前要提前 3 秒打对应灯光（侧方就是出库时要提前打左转向灯）
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="flex-shrink: 0; margin-right: 10px; color: #2ecc71;">⏱️</div>
+  <div>
+    <span style="font-weight: bold; color: #2ecc71;">打火注意：</span>上车的时候一定要检查是否已经打火，如果车子已经打火，就不能再打了。而且注意打火整个流程不能超过 3 秒
+  </div>
+</div>
+
+</div>
 :::
 
 ## 强化练习目标
 
-- **出库打灯**：出去的时候记得右手向下轻轻一拨打左转向灯。
+- **方向盘要在心中**：打方向盘的时候不能眼睛盯着。
+- **不能随便踩脚刹**：除了两个点位（追线停车、侧库停好车后），全程不能动脚刹（踩一次扣 5 分）。
+- **出库打灯**：出去的时候记得右手向下轻轻一拨打左转向灯（灯要打了 3 秒后才能出库）。
 - **出库慢速与点位切换**：出库的时候速度一定要慢，注意车盖边缘和雨刷左边参照物之间的点位切换，防止方向盘跟不上节奏。
   - **进阶技巧**：尝试不寻找雨刮器参照点，凭感觉人在马路中间时直接右打方向盘一圈。
 - **方向盘操作与后视镜观察**：
-  - 方向盘打死后，**先看左后视镜**，确保车轮成功进入黄线内。
+  - 方向盘左打死后，**先看左后视镜**，确保车轮成功进入黄线内。
   - 如果感觉进不了线，**立即右打半圈方向盘**进行修补。
   - 确认车轮进线后，再**左打死**。
   - 最后**看右后视镜**，看到平行就停车。
-- **离合控制**：练习教练教授的离合控制方法。
-- **计时练习**：专门练习在90秒内完成操作。
+- **离合控制**：练习教练教授的离合控制方法，把车速控制得既慢又稳（中途每停车超两秒扣 5 分）。
+- **计时练习**：专门练习在 90 秒内完成操作。
 - **直插法**：了解并练习直插法停车技巧。
-

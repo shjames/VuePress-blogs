@@ -1,27 +1,82 @@
 # 科目二图文说明
 
-![考试图示1](../images/1.jpg)
+::: danger 🚗 侧方位停车图解教程 🚗
 
-![考试图示2](../images/2.jpg)
+<div style="text-align: center; margin-bottom: 20px;">
+  <h2 style="background-image: linear-gradient(to right, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; text-shadow: 0px 2px 2px rgba(0,0,0,0.2); padding: 10px 0;">侧方位停车操作图解</h2>
+  <p style="color: #666; font-style: italic;">按照以下图示步骤操作，轻松掌握侧方位停车技巧</p>
+</div>
 
-![考试图示3](../images/3.jpg)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-bottom: 20px;">
+  <div>
+    <p style="text-align: center; font-weight: bold; margin-bottom: 5px;">步骤1-2</p>
+    <img src="../images/1.jpg" alt="考试图示1" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="../images/2.jpg" alt="考试图示2" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 15px;">
+  </div>
+  <div>
+    <p style="text-align: center; font-weight: bold; margin-bottom: 5px;">步骤3-4</p>
+    <img src="../images/3.jpg" alt="考试图示3" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="../images/4.jpg" alt="考试图示4" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 15px;">
+  </div>
+</div>
 
-![考试图示4](../images/4.jpg)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-bottom: 20px;">
+  <div>
+    <p style="text-align: center; font-weight: bold; margin-bottom: 5px;">步骤5-6</p>
+    <img src="../images/5.jpg" alt="考试图示5" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="../images/6.jpg" alt="考试图示6" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 15px;">
+  </div>
+  <div>
+    <p style="text-align: center; font-weight: bold; margin-bottom: 5px;">步骤7-8</p>
+    <img src="../images/7.jpg" alt="考试图示7" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="../images/8.jpg" alt="考试图示8" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 15px;">
+  </div>
+</div>
 
-![考试图示5](../images/5.jpg)
-
-![考试图示6](../images/6.jpg)
-
-![考试图示7](../images/7.jpg)
-
-![考试图示8](../images/8.jpg)
-
-![考试图示9](../images/9.jpg)
-
-![考试图示10](../images/10.jpg)
+<div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 15px; margin-bottom: 20px;">
+  <div>
+    <p style="text-align: center; font-weight: bold; margin-bottom: 5px;">步骤9-10</p>
+    <img src="../images/9.jpg" alt="考试图示9" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+    <img src="../images/10.jpg" alt="考试图示10" style="width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1); margin-top: 15px;">
+  </div>
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <div style="background-color: #f8f9fa; padding: 20px; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+      <p style="font-weight: bold; color: #e52e71; margin-bottom: 10px; text-align: center;">操作要点</p>
+      <ul style="margin: 0; padding-left: 20px;">
+        <li>注意观察参照物</li>
+        <li>控制车速均匀</li>
+        <li>方向盘操作要准确</li>
+        <li>合理使用后视镜</li>
+      </ul>
+    </div>
+  </div>
+</div>
+:::
 
 ## 全步骤总结
 
-看到库角一指，右打死
-看左后视镜，一节半虚线回半圈，看到雪糕桶方向盘要回正（原理就是车要回正，然后倒车轮胎底压到线就左打死）
-最后看右后视镜，看到车身与黄线间距平行就停车（如果感觉太窄没位置，就提前停）
+<div style="background-color: #f8f9fa; border-radius: 8px; padding: 15px; margin: 15px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
+
+### 侧方位停车操作步骤
+
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 10px; margin-bottom: 10px;">
+  <div style="color: #e74c3c; font-weight: bold; font-size: 1.2em;">1️⃣</div>
+  <div style="border-left: 3px solid #e74c3c; padding-left: 10px;"><b>看到库角一指，右打死</b></div>
+</div>
+
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 10px; margin-bottom: 10px;">
+  <div style="color: #3498db; font-weight: bold; font-size: 1.2em;">2️⃣</div>
+  <div style="border-left: 3px solid #3498db; padding-left: 10px;"><b>看左后视镜</b>，一节半虚线回半圈，看到雪糕桶方向盘要回正（原理就是车要回正，然后倒车轮胎底压到线就左打死），如果回早或者会晚，都要稍微对应调整一下，使车身对齐库边角压线</div>
+</div>
+
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 10px; margin-bottom: 10px;">
+  <div style="color: #2ecc71; font-weight: bold; font-size: 1.2em;">3️⃣</div>
+  <div style="border-left: 3px solid #2ecc71; padding-left: 10px;"><b>继续看左后视镜</b>，看到轮胎底即将压线，方向盘左打死，这时先别急着看右后视镜，先左后视镜观察后轮能不能成功进线，如果感觉不能成功进线，就向右打半圈方向盘修一下，看到轮子进去黄线内了，再看右后视镜</div>
+</div>
+
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 10px;">
+  <div style="color: #9b59b6; font-weight: bold; font-size: 1.2em;">4️⃣</div>
+  <div style="border-left: 3px solid #9b59b6; padding-left: 10px;"><b>最后看右后视镜</b>，看到车身与黄线间距平行就停车（如果感觉太窄没位置，就提前停）</div>
+</div>
+
+</div>
