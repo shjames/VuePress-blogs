@@ -81,22 +81,83 @@
 
 </div>
 
-
 ## 实操要点总结
 
 ::: tip 追线技巧
+
 1. **视线控制**：追线时头不要歪，保持正视前方，可以闭上右眼，左眼球转向右侧追线
 2. **库角调整**：
    - 追线较窄：第一个库角点位时**晚打**方向
    - 追线较宽：第一个库角点位时**早打**方向
 3. **关键时刻**：车后轮**即将压线**时就要左打死方向盘，不要等压线后才打
    - 正确时机：左打死方向盘的一瞬间，车轮刚好压线
-:::
+     :::
 
 ::: warning 需要改进的地方
-- 离合控制需要更熟练
-- 车速控制需要更慢
-- 方向盘操作需要更快
-- **重要提醒**：出库时记得打左转向灯&所有点位的时候，方向盘都不能打晚
-:::
+<div style="background: linear-gradient(to right, #fff8f8, #ffffff); border-radius: 8px; padding: 15px; margin: 10px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
 
+<div style="display: grid; grid-template-columns: 40px 1fr; gap: 10px; margin-bottom: 12px; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <span style="font-size: 1.2em; color: #e74c3c;">🔄</span>
+  </div>
+  <div style="border-left: 3px solid #e74c3c; padding-left: 10px;">
+    <span style="font-weight: bold;">离合控制</span>需要更熟练
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 40px 1fr; gap: 10px; margin-bottom: 12px; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <span style="font-size: 1.2em; color: #f39c12;">⚙️</span>
+  </div>
+  <div style="border-left: 3px solid #f39c12; padding-left: 10px;">
+    <span style="font-weight: bold;">挡位切换</span>得也不够好，经常打错档
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 40px 1fr; gap: 10px; margin-bottom: 12px; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <span style="font-size: 1.2em; color: #3498db;">🐢</span>
+  </div>
+  <div style="border-left: 3px solid #3498db; padding-left: 10px;">
+    <span style="font-weight: bold;">车速控制</span>需要更慢
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 40px 1fr; gap: 10px; margin-bottom: 12px; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <span style="font-size: 1.2em; color: #9b59b6;">🎯</span>
+  </div>
+  <div style="border-left: 3px solid #9b59b6; padding-left: 10px;">
+    <span style="font-weight: bold;">侧方出库点位</span>还是找得不够好，特别是第二个（找到正确的位置，要单独下车看下，然后记住雨刷器和点位之间的位置关系，记住左右眼都试一下，找一个适合自己的，或者直接感觉人在中间)，还要专门练习
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 40px 1fr; gap: 10px; margin-bottom: 12px; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <span style="font-size: 1.2em; color: #2ecc71;">⚡</span>
+  </div>
+  <div style="border-left: 3px solid #2ecc71; padding-left: 10px;">
+    <span style="font-weight: bold;">方向盘操作</span>需要更快
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 40px 1fr; gap: 10px; margin-bottom: 12px; align-items: center;">
+  <div style="display: flex; justify-content: center;">
+    <span style="font-size: 1.2em; color: #e67e22;">📏</span>
+  </div>
+  <div style="border-left: 3px solid #e67e22; padding-left: 10px;">
+    <span style="font-weight: bold;">库角点位（雪糕筒）</span>回正方向盘后，一定要观察车身是不是对准库角了。不是就要补正，要保证车身是对齐库角压线的
+  </div>
+</div>
+
+<div style="display: grid; grid-template-columns: 40px 1fr; gap: 10px; align-items: center; background-color: #fff0f0; border-radius: 6px; padding: 10px;">
+  <div style="display: flex; justify-content: center;">
+    <span style="font-size: 1.2em; color: #c0392b;">⚠️</span>
+  </div>
+  <div style="border-left: 3px solid #c0392b; padding-left: 10px;">
+    <span style="font-weight: bold; color: #c0392b;">重要提醒</span>：出库时记得打左转向灯 & 所有点位的时候，方向盘都不能打晚
+  </div>
+</div>
+
+</div>
+:::
