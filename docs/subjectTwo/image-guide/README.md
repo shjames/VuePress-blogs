@@ -90,10 +90,11 @@
    - 追线较窄：第一个库角点位时**晚打**方向
    - 追线较宽：第一个库角点位时**早打**方向
 3. **关键时刻**：车后轮**即将压线**时就要左打死方向盘，不要等压线后才打
-   - 正确时机：左打死方向盘的一瞬间，车轮刚好压线
+   - 正确时机：左打死方向盘的一瞬间，车轮刚好压线（这一点很重要，如果发现左打死轮胎还没压线，赶紧方向盘右打半圈，看到轮胎进线后，再左打死）
      :::
 
 ::: warning 需要改进的地方
+
 <div style="background: linear-gradient(to right, #fff8f8, #ffffff); border-radius: 8px; padding: 15px; margin: 10px 0; box-shadow: 0 2px 5px rgba(0,0,0,0.05);">
 
 <div style="display: grid; grid-template-columns: 40px 1fr; gap: 10px; margin-bottom: 12px; align-items: center;">
@@ -157,6 +158,7 @@
   <div style="border-left: 3px solid #c0392b; padding-left: 10px;">
     <span style="font-weight: bold; color: #c0392b;">重要提醒</span>：出库时记得打左转向灯 & 所有点位的时候，方向盘都不能打晚
   </div>
+  
 </div>
 
 </div>
