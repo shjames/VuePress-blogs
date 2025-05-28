@@ -71,6 +71,7 @@
 - 追线那里停一次，库里停一次
 
 ::: tip 侧方位停车重要提示
+
 <div style="background: linear-gradient(to right, #f6f8fa, #ffffff); border-radius: 6px; padding: 12px; margin: 10px 0;">
 
 <div style="display: flex; align-items: flex-start; margin-bottom: 12px;">
@@ -112,3 +113,68 @@
 - **离合控制**：练习教练教授的离合控制方法，把车速控制得既慢又稳（中途每停车超两秒扣 5 分）。
 - **计时练习**：专门练习在 90 秒内完成操作。
 - **直插法**：了解并练习直插法停车技巧。
+
+<div style="margin: 30px 0; position: relative; height: 6px; background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); border-radius: 3px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+  <div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); background-color: white; padding: 0 15px; font-weight: bold; color: #4facfe;"></div>
+</div>
+
+::: danger 🚗 倒车入库相关 🚗
+
+# <span style="background-image: linear-gradient(to right, #ff8a00, #e52e71); -webkit-background-clip: text; color: transparent; text-shadow: 0px 2px 2px rgba(0,0,0,0.2);">倒车入库</span>
+
+:::
+
+## 倒车入库注意事项
+
+<div style="background-color: #f8f9fa; border-radius: 10px; padding: 20px; margin: 15px 0; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <div style="background-color: #3498db; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">1</div>
+  <div>
+    <span style="font-weight: bold; color: #3498db;">考场虚线差异：</span>考试的时候是在江高考场，由于江高考场和训练场虚线不一致，所以倒车入库时，在考试的时候，追线的时候是追第二第三条虚线中间。
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <div style="background-color: #e74c3c; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">2</div>
+  <div>
+    <span style="font-weight: bold; color: #e74c3c;">追线禁停：</span>追线中途不能停，一停 <span style="color: #e74c3c; font-weight: bold;">100分</span>。
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <div style="background-color: #2ecc71; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">3</div>
+  <div>
+    <span style="font-weight: bold; color: #2ecc71;">座位调整：</span>座位一定要每次都调得差不多。
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <div style="background-color: #9b59b6; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">4</div>
+  <div>
+    <span style="font-weight: bold; color: #9b59b6;">后视镜观察：</span>最后倒车进到库后，后视镜（倒右库就是看左后视镜，倒左库就是看右后视镜）看到稍微前宽后窄就行，不要调到视觉平行，然后找点位停车。
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <div style="background-color: #f39c12; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">5</div>
+  <div>
+    <span style="font-weight: bold; color: #f39c12;">回正时机：</span>倒车入库的时候，当前门把手一半齐平外库角直线的时候，方向盘打死后的回正时机是看见库角出现（<span style="color: #f39c12; font-weight: bold;">注意要低头去看</span>）。
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
+  <div style="background-color: #1abc9c; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">6</div>
+  <div>
+    <span style="font-weight: bold; color: #1abc9c;">车速控制：</span>车速要慢慢慢、离合要控制得稳稳稳。
+  </div>
+</div>
+
+<div style="display: flex; align-items: flex-start;">
+  <div style="background-color: #e67e22; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">7</div>
+  <div>
+    <span style="font-weight: bold; color: #e67e22;">方向修整：</span>看见库角回正方向盘后，不是就直接不管了，而是要稍微修整下，达到后视镜（倒右库就是看左后视镜，倒左库就是看右后视镜）看到是稍微前宽后窄。
+  </div>
+</div>
+
+</div>
