@@ -66,7 +66,7 @@
 
 <div style="display: grid; grid-template-columns: auto 1fr; gap: 10px; margin-bottom: 10px;">
   <div style="color: #3498db; font-weight: bold; font-size: 1.2em;">2️⃣</div>
-  <div style="border-left: 3px solid #3498db; padding-left: 10px;"><b>看左后视镜</b>，一节半虚线回半圈，看到雪糕桶方向盘要回正（原理就是车要回正，然后倒车轮胎底压到线就左打死），如果回早或者会晚，都要稍微对应调整一下，使车身对齐库边角压线</div>
+  <div style="border-left: 3px solid #3498db; padding-left: 10px;"><b>看左后视镜</b>，一节半虚线回半圈，看到雪糕桶（考试就是库角）方向盘要回正，如果回早或者会晚，都要稍微对应调整一下，使车身对齐库边角压线（原理就是左后视镜要保证看到对准库角，然后倒车轮胎底即将压到黄线就左打死），</div>
 </div>
 
 <div style="display: grid; grid-template-columns: auto 1fr; gap: 10px; margin-bottom: 10px;">
@@ -76,9 +76,20 @@
 
 <div style="display: grid; grid-template-columns: auto 1fr; gap: 10px;">
   <div style="color: #9b59b6; font-weight: bold; font-size: 1.2em;">4️⃣</div>
-  <div style="border-left: 3px solid #9b59b6; padding-left: 10px;"><b>最后看右后视镜</b>，看到车身与黄线间距平行就停车（如果感觉太窄没位置，就提前停）</div>
+  <div style="border-left: 3px solid #9b59b6; padding-left: 10px;"><b>最后看右后视镜</b>，看到车身与黄线间距平行就停车（右后视镜看到差不多两指宽的宽度才是对的，如果感觉太窄没位置，就提前停）</div>
 </div>
 
+ <img src="../images/13.jpg" alt="考试图示1" style="margin-top:15px;width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+   <div style="margin-top:15px;border-left: 3px solid #9b59b6; padding-left: 10px;"><b>如果看到太宽了  就要继续倒，调到差不多，要不左边就会压线</b></div>
+
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 10px;">
+  <div style="color: #9b59b6; font-weight: bold; font-size: 1.2em;">5</div>
+  <div style="border-left: 3px solid #9b59b6; padding-left: 10px;"><b>最后出库的时候</b>，看到左股线盖完黄线就回正，然后雨刷头左边碰黄线就右一圈，然后人正就回正</div>
+</div>
+
+  <img src="../images/14.jpg" alt="考试图示1" style="margin-top:15px;width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+
+</div>
 </div>
 
 ## 实操要点总结
