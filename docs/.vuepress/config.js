@@ -32,6 +32,7 @@ module.exports = {
       "/subjectTwo/": [
         "", // /subjectTwo/README.md
         "image-guide/", // 图文说明子路由
+        "key-notes/", // 科目二通关秘籍 重点笔记
       ],
       "/subjectFour/": ["", "study-notes/"],
     },
