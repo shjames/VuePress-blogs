@@ -80,14 +80,15 @@
 </div>
 
  <img src="../images/13.jpg" alt="考试图示1" style="margin-top:15px;width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
-   <div style="margin-top:15px;border-left: 3px solid #9b59b6; padding-left: 10px;"><b>如果看到太宽了  就要继续倒，调到差不多，要不左边就会压线</b></div>
-
-<div style="display: grid; grid-template-columns: auto 1fr; gap: 10px;">
-  <div style="color: #9b59b6; font-weight: bold; font-size: 1.2em;">5</div>
+  
+<div style="margin-top:15px;border-left: 3px solid #9b59b6; padding-left: 10px;"><b>如果看到太宽了  就要继续倒，调到差不多图片所示宽度，要不左边就会压线</b></div>
+<div style="display: grid; grid-template-columns: auto 1fr; gap: 10px; margin-bottom: 10px;margin-top:30px">
+  <div style="color: #9b59b6; font-weight: bold; font-size: 1.2em;">5️⃣</div>
   <div style="border-left: 3px solid #9b59b6; padding-left: 10px;"><b>最后出库的时候</b>，看到左股线盖完黄线就回正，然后雨刷头左边碰黄线就右一圈，然后人正就回正</div>
 </div>
 
-  <img src="../images/14.jpg" alt="考试图示1" style="margin-top:15px;width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<img src="../images/14.jpg" alt="考试图示14" style="margin-top:15px;width: 100%; border-radius: 8px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
+<div style="margin-top:15px;border-left: 3px solid #9b59b6; padding-left: 10px;"><b>出库操作要点</b>：确保转向灯打开，方向盘操作及时，动作连贯流畅</div>
 
 </div>
 </div>
