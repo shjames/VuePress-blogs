@@ -28,9 +28,9 @@
     <span style="font-weight: bold; color: #2ecc71; font-size: 1.1em;">三、检查事项</span>
     <ul style="margin-top: 5px; margin-bottom: 0;">
       <li><span style="font-weight: bold;">后视镜：</span>检查并调整到适合自己的位置</li>
-      <li><span style="font-weight: bold;">档位：</span>确认是否在空挡，不是空挡直接启动发动机会<span style="color: #e74c3c; font-weight: bold;">直接挂科</span></li>
+      <li><span style="font-weight: bold;">档位：</span>确认是否在空挡(只要确认车是启动没有熄火的，又没有踩死离合，就一定是空挡)，不是空挡直接启动发动机会<span style="color: #e74c3c; font-weight: bold;">直接挂科</span></li>
       <li><span style="font-weight: bold;">启动状态：</span>检查车辆是否已启动，已启动状态下再次点火会造成熄火，<span style="color: #e74c3c;">扣10分</span></li>
-      <li><span style="font-weight: bold;">手刹：</span>手刹和挂挡没有前后顺序，但不放手刹就起步会<span style="color: #e74c3c; font-weight: bold;">直接挂科</span>(可以先放手刹再挂挡)，确认仪表盘红灯全部熄灭后才能起步<span style="color: #e74c3c; font-weight: bold;">要么就直接挂科</span></li>
+      <li><span style="font-weight: bold;">手刹：</span>手刹和挂挡没有前后顺序，但不放手刹就起步会<span style="color: #e74c3c; font-weight: bold;">直接挂科</span>(所以先放手刹再挂挡)，确认仪表盘红灯全部熄灭后才能起步<span style="color: #e74c3c; font-weight: bold;">要么就直接挂科</span></li>
     </ul>
   </div>
 </div>
@@ -103,17 +103,17 @@
 
 - **方向盘要在心中**：打方向盘的时候不能眼睛盯着。
 - **不能随便踩脚刹**：除了两个点位（追线停车、侧库停好车后），全程不能动脚刹（踩一次扣 5 分）。
-- **出库打灯**：出去的时候记得右手向下轻轻一拨打左转向灯（灯要打了 3 秒后才能出库）。
-- **出库慢速与点位切换**：出库的时候速度一定要慢，注意车盖边缘和雨刷左边参照物之间的点位切换，防止方向盘跟不上节奏。
+- **出库打灯**：出去的时候记得右手重压打左转向灯（灯要打了 3 秒后才能出库）。
+- **出库慢速与点位切换**：出库的时候速度一定要慢，注意左股线和雨刷左边参照物之间的点位切换，防止方向盘跟不上节奏。
   - **进阶技巧**：尝试不寻找雨刮器参照点，凭感觉人在马路中间时直接右打方向盘一圈。
 - **方向盘操作与后视镜观察**：
-  - 方向盘左打死后，**先看左后视镜**，确保车轮成功进入黄线内。
+  - 方向盘左打死后，**先看左后视镜**，确保方向盘打死的瞬间车轮压线，
+  没有压线就右调一点，看到车轮进入黄线内，再左打死。
   - 如果感觉进不了线，**立即右打半圈方向盘**进行修补。
   - 确认车轮进线后，再**左打死**。
   - 最后**看右后视镜**，看到平行就停车。
 - **离合控制**：练习教练教授的离合控制方法，把车速控制得既慢又稳（中途每停车超两秒扣 5 分）。
 - **计时练习**：专门练习在 90 秒内完成操作。
-- **直插法**：了解并练习直插法停车技巧。
 
 <div style="margin: 30px 0; position: relative; height: 6px; background: linear-gradient(to right, #4facfe 0%, #00f2fe 100%); border-radius: 3px; box-shadow: 0 2px 4px rgba(0,0,0,0.1);">
   <div style="position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%); background-color: white; padding: 0 15px; font-weight: bold; color: #4facfe;"></div>
@@ -132,7 +132,7 @@
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <div style="background-color: #3498db; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">1</div>
   <div>
-    <span style="font-weight: bold; color: #3498db;">考场虚线差异：</span>考试的时候是在江高考场，由于江高考场和训练场虚线不一致，所以倒车入库时，在考试的时候，追线的时候是追第二第三条虚线中间。
+    <span style="font-weight: bold; color: #3498db;">考场虚线差异：</span>考试的时候是在江高考场，由于江高考场和训练场虚线不一致，所以倒车入库时，在考试的时候，追线的时候是追左往右数，第二第三条虚线中间。
   </div>
 </div>
 
@@ -160,7 +160,7 @@
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <div style="background-color: #f39c12; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">5</div>
   <div>
-    <span style="font-weight: bold; color: #f39c12;">回正时机：</span>倒车入库的时候，当前门把手一半齐平外库角直线的时候，方向盘打死后的回正时机是看见库角出现（<span style="color: #f39c12; font-weight: bold;">注意要低头去看</span>）。
+    <span style="font-weight: bold; color: #f39c12;">右入库回正时机：</span>右倒车入库的时候，当前门把手一半齐平库角延长线的时候，方向盘右打死后的回正时机是看见库角出现一指宽的时候（<span style="color: #f39c12; font-weight: bold;">注意要低头去看</span>）。
   </div>
 </div>
 
@@ -247,9 +247,9 @@
 ### 观察与调整
 
 - **观察技巧**：门把手与直角延长线这个点位，要用余光去看，不要死盯着库角
-- **回正时机**：不管右入库还是左入库，最后进到库里面后，后视镜出现库角的时候记得回正，然后再微调到前宽后窄就停车
-  - 右入库：看左后视镜出现库角就回正
-  - 左入库：看右后视镜出现库角就回正
+- **回正时机**：不管右入库还是左入库，最后进到库里面后，后视镜出现库角一指宽的时候记得回正，然后再微调到前宽后窄就停车
+  - 右入库：看左后视镜出现库角一指宽就回正
+  - 左入库：看右后视镜出现库角一指宽就回正
 ## 曲线、直角弯、坡道复盘
 
 **通用点：**
