@@ -160,7 +160,7 @@
 <div style="display: flex; align-items: flex-start; margin-bottom: 15px;">
   <div style="background-color: #f39c12; color: white; width: 28px; height: 28px; border-radius: 50%; display: flex; justify-content: center; align-items: center; margin-right: 15px; flex-shrink: 0; font-weight: bold;">5</div>
   <div>
-    <span style="font-weight: bold; color: #f39c12;">右入库回正时机：</span>右倒车入库的时候，当前门把手一半齐平库角延长线的时候，方向盘右打死后的回正时机是看见库角出现一指宽的时候（<span style="color: #f39c12; font-weight: bold;">注意要低头去看</span>）。
+    <span style="font-weight: bold; color: #f39c12;">右入库回正时机：</span>右倒车入库的时候，当前门把手一半齐平库角延长线的时候，方向盘右打死后的回正时机是看见库角刚出现的时候（<span style="color: #f39c12; font-weight: bold;">注意要低头去看</span>）。
   </div>
 </div>
 
@@ -247,9 +247,9 @@
 ### 观察与调整
 
 - **观察技巧**：门把手与直角延长线这个点位，要用余光去看，不要死盯着库角
-- **回正时机**：不管右入库还是左入库，最后进到库里面后，后视镜出现库角一指宽的时候记得回正，然后再微调到前宽后窄就停车
-  - 右入库：看左后视镜出现库角一指宽就回正
-  - 左入库：看右后视镜出现库角一指宽就回正
+- **回正时机**：不管右入库还是左入库，最后进到库里面后，后视镜出现库角的时候记得回正，然后再微调到前宽后窄就停车
+  - 右入库：看左后视镜出现库角就回正
+  - 左入库：看右后视镜出现库角就回正
 ## 曲线、直角弯、坡道复盘
 
 **通用点：**
