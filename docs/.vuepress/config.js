@@ -13,6 +13,7 @@ module.exports = {
     nav: [
       { text: "科目一", link: "/subjectOne/" },
       { text: "科目二", link: "/subjectTwo/" },
+      { text: "科目三", link: "/subjectThree/" },
       { text: "科目四", link: "/subjectFour/" },
     ],
     sidebar: {
@@ -33,6 +34,11 @@ module.exports = {
         "", // /subjectTwo/README.md
         "image-guide/", // 图文说明子路由
         "key-notes/", // 科目二通关秘籍 重点笔记
+      ],
+      "/subjectThree/": [
+        "", // /subjectThree/README.md
+        "driving-skills/", // 驾驶技巧
+        "exam-points/", // 考试要点
       ],
       "/subjectFour/": ["", "study-notes/"],
     },
