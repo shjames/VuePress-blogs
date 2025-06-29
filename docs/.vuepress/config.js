@@ -40,6 +40,7 @@ module.exports = {
         "driving-skills/", // 驾驶技巧
         "exam-points/", // 考试要点
         "preview-notes/", // 预习笔记
+        "practice-summary/", // 实操复盘总结笔记
       ],
       "/subjectFour/": ["", "study-notes/"],
     },
