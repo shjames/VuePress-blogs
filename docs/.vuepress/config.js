@@ -41,6 +41,7 @@ module.exports = {
         "exam-points/", // 考试要点
         "preview-notes/", // 预习笔记
         "practice-summary/", // 实操复盘总结笔记
+        "deduction-details/", // 科目三所有扣分细节
       ],
       "/subjectFour/": ["", "study-notes/"],
     },
