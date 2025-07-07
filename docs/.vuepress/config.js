@@ -15,6 +15,7 @@ module.exports = {
       { text: "科目二", link: "/subjectTwo/" },
       { text: "科目三", link: "/subjectThree/" },
       { text: "科目四", link: "/subjectFour/" },
+
     ],
     sidebar: {
       "/subjectOne/": [
@@ -42,6 +43,7 @@ module.exports = {
         "preview-notes/", // 预习笔记
         "practice-summary/", // 实操复盘总结笔记
         "deduction-details/", // 科目三所有扣分细节
+        "exam-route-notes/", // 考试路线笔记
       ],
       "/subjectFour/": ["", "study-notes/"],
     },
