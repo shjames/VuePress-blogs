@@ -22,3 +22,9 @@
   <img src="./images/5.jpg" alt="Route 5">
   <img src="./images/6.jpg" alt="Route 6">
 </div>
+
+<div id="imageModal" class="modal">
+  <span class="close">&times;</span>
+  <img class="modal-content" id="img01">
+</div>
+
