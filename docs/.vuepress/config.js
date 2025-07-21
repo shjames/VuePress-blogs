@@ -44,6 +44,7 @@ module.exports = {
         "deduction-details/", // 科目三所有扣分细节
         "exam-route-notes/", // 考试路线笔记
         "exam-route-comparison/", // 线路对比
+        "pre-exam-practice/", // 考试前练车实操笔记
       ],
       "/subjectFour/": ["", "study-notes/"],
     },
