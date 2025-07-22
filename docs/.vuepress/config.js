@@ -45,6 +45,7 @@ module.exports = {
         "exam-route-notes/", // 考试路线笔记
         "exam-route-comparison/", // 线路对比
         "pre-exam-practice/", // 考试前练车实操笔记
+        "pre-exam-key-points/", // 考前重点笔记
       ],
       "/subjectFour/": ["", "study-notes/"],
     },
