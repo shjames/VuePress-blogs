@@ -50,7 +50,7 @@ module.exports = {
         "pre-exam-key-points/", // 考前重点笔记
       ],
       "/subjectFour/": ["", "study-notes/"],
-      "/onTheRoad/": [""],
+      "/onTheRoad/": ["","car-rental/"],
     },
   },
 };
