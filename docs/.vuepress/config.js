@@ -16,7 +16,7 @@ module.exports = {
       { text: "科目三", link: "/subjectThree/" },
       { text: "科目四", link: "/subjectFour/" },
       { text: "真实上路", link: "/onTheRoad/" },
-      // 新增一个路由：真实上路
+      { text: "福建旅游攻略", link: "/tourismGuideToFujianProvince/" },
     ],
     sidebar: {
       "/subjectOne/": [
@@ -50,7 +50,8 @@ module.exports = {
         "pre-exam-key-points/", // 考前重点笔记
       ],
       "/subjectFour/": ["", "study-notes/"],
-      "/onTheRoad/": ["","car-rental/"],
+      "/onTheRoad/": ["", "car-rental/"],
+      "/tourismGuideToFujianProvince/": [""],
     },
   },
 };
