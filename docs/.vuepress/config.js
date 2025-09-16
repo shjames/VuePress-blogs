@@ -17,6 +17,7 @@ module.exports = {
       { text: "科目四", link: "/subjectFour/" },
       { text: "真实上路", link: "/onTheRoad/" },
       { text: "福建旅游攻略", link: "/tourismGuideToFujianProvince/" },
+      { text: "南宁旅游攻略", link: "/tourismGuideToNanningProvince/" }
     ],
     sidebar: {
       "/subjectOne/": [
@@ -52,6 +53,7 @@ module.exports = {
       "/subjectFour/": ["", "study-notes/"],
       "/onTheRoad/": ["", "car-rental/"],
       "/tourismGuideToFujianProvince/": [""],
+      "/tourismGuideToNanningProvince/": [""],
     },
   },
 };
