@@ -130,7 +130,10 @@
 ![驾驶图片19](./images/shi.png)  
 ![驾驶图片20](./images/san.png)  
 ![驾驶图片21](./images/1.5.png)  
-![驾驶图片22](./images/gif2.gif)  
+![驾驶图片22](./images/gif2.gif) 
+![驾驶图片23](./images/09271.jpg)  
+![驾驶图片24](./images/09272.jpg)  
+![驾驶图片25](./images/09273.jpg)   
 
 
 
